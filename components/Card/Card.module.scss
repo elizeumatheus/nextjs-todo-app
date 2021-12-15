@@ -1,0 +1,19 @@
+.container {
+  background-color: var(--color-background-light);
+  border-radius: var(--shape-border-radius-md);
+  box-shadow: var(--shape-elevation-xs);
+  padding: var(--spacing-inner-base04);
+}
+
+.title {
+  font: var(--typography-subtitle);
+}
+
+.details {
+  display: flex;
+  flex-direction: row;
+
+  & > *:not(:first-child) {
+    margin-left: var(--spacing-layout-base);
+  }
+}
