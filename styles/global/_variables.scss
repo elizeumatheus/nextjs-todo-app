@@ -1,0 +1,61 @@
+:root {
+  --color-background-light: #ffffff;
+  --color-background-dark: #191f23;
+  --color-background-secondary: #f2f2f3;
+  --color-background-tertiary: #838791;
+
+  --spacing-inner-base: 4px;
+  --spacing-inner-base02: 8px;
+  --spacing-inner-base03: 12px;
+  --spacing-inner-base04: 16px;
+  --spacing-inner-base05: 20px;
+  --spacing-inner-base06: 24px;
+  --spacing-inner-base07: 32px;
+  --spacing-inner-base08: 40px;
+  --spacing-inner-base09: 48px;
+  --spacing-inner-base10: 56px;
+
+  --spacing-layout-base: 8px;
+  --spacing-layout-base02: 16px;
+  --spacing-layout-base03: 24px;
+  --spacing-layout-base04: 32px;
+  --spacing-layout-base05: 40px;
+  --spacing-layout-base06: 48px;
+  --spacing-layout-base07: 56px;
+  --spacing-layout-base08: 64px;
+  --spacing-layout-base09: 80px;
+  --spacing-layout-base10: 96px;
+  --spacing-layout-base11: 120px;
+
+  --shape-border-radius-xs: 4px;
+  --shape-border-radius-sm: 8px;
+  --shape-border-radius-md: 12px;
+  --shape-border-radius-lg: 24px;
+  --shape-border-radius-xl: 48px;
+  --shape-border-radius-circle: 50%;
+
+  --shape-elevation-xs: 0px 2px 4px rgba(25, 31, 35, 0.24);
+  --shape-elevation-sm: 0px 4px 8px rgba(25, 31, 35, 0.2);
+  --shape-elevation-md: 0px 8px 16px rgba(25, 31, 35, 0.16);
+  --shape-elevation-lg: 0px 16px 24px rgba(25, 31, 35, 0.12);
+  --shape-elevation-xl: 0px 24px 32px rgba(25, 31, 35, 0.08);
+
+  --font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+  --typography-headline-h1: 700 56px var(--font-family);
+  --typography-headline-h2: 700 48px var(--font-family);
+  --typography-headline-h3: 700 32px var(--font-family);
+  --typography-headline-h4: 700 24px var(--font-family);
+  --typography-subtitle: 700 18px var(--font-family);
+  --typography-paragraph-lg: 400 18px var(--font-family);
+  --typography-paragraph-lg-700: 700 18px var(--font-family);
+  --typography-paragraph-md: 400 16px var(--font-family);
+  --typography-paragraph-md-700: 700 16px var(--font-family);
+  --typography-paragraph-sm: 400 14px var(--font-family);
+  --typography-paragraph-sm-700: 700 14px var(--font-family);
+  --typography-caption: 400 12px var(--font-family);
+  --typography-overline: 700 10px var(--font-family);
+  --typography-label-md: 400 16px var(--font-family);
+  --typography-label-sm: 400 14px var(--font-family);
+}
